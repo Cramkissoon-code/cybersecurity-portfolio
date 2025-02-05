@@ -7,4 +7,4 @@ This section contains my cybersecurity certifications.
 - Issued By: Coursera
 - Date: December 2024
 
-
+[Certificate PDF](Coursera_XMTQNNRMYA7T.pdf)
