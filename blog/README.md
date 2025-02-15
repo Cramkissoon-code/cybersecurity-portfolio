@@ -1,9 +1,4 @@
-# Blog
+# Professional Statement
 
-This section contains my blog posts on various cybersecurity topics.
+## Welcome to my cybersecurity portfolio! I am an aspiring cybersecurity professional with a strong foundation in the basics of SQL, Linux, and Python, complemented by a Coursera Google Cybersecurity Certificate. Although I am at the beginning of my journey, my hands-on practice and dedication to learning have prepared me to tackle the challenges in the cybersecurity field. As I continue to grow and gain experience, I am confident that my future in cybersecurity will guide me in defining my professional goals and aspirations. Explore my projects and see how I am applying my skills to real-world scenarios.
 
-## Post 1: Introduction to Network Security
-Network security is a crucial aspect of protecting information and resources in an organization. It involves implementing measures to prevent unauthorized access, misuse, modification, or denial of the network and network-accessible resources.
-
-## Post 2: Penetration Testing Methodologies
-Penetration testing is a simulated cyber attack against your computer system to check for exploitable vulnerabilities. It can involve the attempted breaching of any number of application systems, such as application protocol interfaces (APIs), frontend/backend servers, to uncover vulnerabilities.
